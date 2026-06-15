@@ -1,0 +1,12 @@
+# 忽略下载的表情包文件夹
+抖音收藏表情包/
+
+# Python 缓存和虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+.conda/
